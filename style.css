@@ -1,0 +1,29 @@
+body {
+    background: #f3f3f3;
+    font-family: Sans-serif, Helvetica, Arial;
+}
+
+.container {
+    width: 70%;
+    margin: 150px auto;
+    text-align: center;
+}
+
+.header1 {
+    font-size: 60px;
+    color: #383838;
+    font-weight: 300;
+}
+
+.header2 {
+    font-size: 30px;
+    color: #888;
+    font-weight: 300
+}
+
+.logos {
+    margin-top: 200px
+}
+    .logo-image {
+        margin: 20px;
+    }
